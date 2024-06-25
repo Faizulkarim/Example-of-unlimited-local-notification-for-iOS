@@ -1,0 +1,16 @@
+PODS:
+  - Robin (0.98.0)
+
+DEPENDENCIES:
+  - Robin (~> 0.98.0)
+
+SPEC REPOS:
+  trunk:
+    - Robin
+
+SPEC CHECKSUMS:
+  Robin: a1819c64fdf79a468af2e01aaeabf895d2969fa3
+
+PODFILE CHECKSUM: c1c3f55ba7581818fa60ded99b28a60612501ac2
+
+COCOAPODS: 1.11.3
